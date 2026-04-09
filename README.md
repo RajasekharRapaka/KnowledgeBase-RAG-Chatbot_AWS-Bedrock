@@ -691,7 +691,7 @@ If running on EC2, attach an IAM role with the required permissions to the insta
 
 ## License
 
-MIT License — see `LICENSE` for details.
+Apache License 2.0 — see `LICENSE` for details.
 
 ---
 
