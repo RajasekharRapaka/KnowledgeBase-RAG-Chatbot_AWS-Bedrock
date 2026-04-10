@@ -18,6 +18,8 @@
 ```
 
 ### Enterprise Knowledge Base Intelligence Platform
+<img width="1366" height="645" alt="Screenshot 2026-04-10 at 11 40 19 PM" src="https://github.com/user-attachments/assets/8077aea3-c3c8-437b-bfdd-ee4e8c026394" />
+
 
 **Ask an LLM questions across your private documents — powered by Amazon Bedrock RAG + Claude 3.5 Sonnet. Zero hallucinations. Full source citations. Live PDF highlighting.**
 
