@@ -54,7 +54,7 @@
 </tr>
 </table>
 
-> **To add your own screenshots:** Upload your app screenshots to the repo (`/assets/`) and replace the placeholder URLs above. Or paste directly into a GitHub issue and copy the generated URL.
+> ** Upload app screenshots to the repo (`/assets/`) and replace the placeholder URLs above. Or paste directly into a GitHub issue and copy the generated URL.
 
 ---
 
