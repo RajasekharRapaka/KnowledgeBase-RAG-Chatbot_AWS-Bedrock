@@ -29,33 +29,6 @@
 
 ---
 
-## Screenshots
-
-<table>
-<tr>
-<td width="50%">
-
-**RAG Answer with Source Citations & PDF Preview**
-
-![NexusIQ - RAG Answer with highlighted PDF](https://github.com/user-attachments/assets/placeholder-screenshot-1)
-
-*Answering questions from an HR policy document with inline source citations and real-time PDF preview showing the exact passage.*
-
-</td>
-<td width="50%">
-
-**Multi-document Knowledge Base + Follow-up Questions**
-
-![NexusIQ - Multi-doc query](https://github.com/user-attachments/assets/placeholder-screenshot-2)
-
-*AI-generated follow-up question chips, document list panel with sync status, and the 3-column enterprise layout.*
-
-</td>
-</tr>
-</table>
-
-> ** Upload app screenshots to the repo (`/assets/`) and replace the placeholder URLs above. Or paste directly into a GitHub issue and copy the generated URL.
-
 ---
 
 ## What is NexusIQ?
@@ -699,8 +672,7 @@ Apache License 2.0 — see `LICENSE` for details.
 
 <div align="center">
 
-Built with ❤️ using Amazon Bedrock, Claude 3.5 Sonnet, and Flask.
+Built with Amazon Bedrock, Claude 3.5 Sonnet, and Flask.
 
-**[⭐ Star this repo](https://github.com/YOUR_USERNAME/nexusiq)** if you found it useful!
 
 </div>
